@@ -1,0 +1,83 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# ========== Android Studio Specific ==========
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.swp
+*.swo
+
+# ========== Gradle & Build Artifacts ==========
+/.gradle/
+/build/
+*/build/
+*/bin/
+*/out/
+captures/
+
+# ========== Dependency Caches ==========
+.cxx/
+.externalNativeBuild/
+.gradle/
+local.properties
+
+# ========== Generated Files ==========
+/gen/
+/obj/
+/libs/
+*.jar
+*.aar
+*.apk
+*.aab
+*.dex
+*.so
+*.o
+*.a
+*.class
+
+# ========== Logs & Debug Files ==========
+*.log
+log.txt
+
+# ========== Keystore & Security Files ==========
+*.keystore
+*.jks
+*.pem
+
+# ========== Firebase & Google Services ==========
+/google-services.json
+/google-services.xml
+/app/google-services.json
+
+# ========== Crashlytics & Analytics ==========
+fabric/
+crashlytics/
+com.crashlytics.*
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# ========== OS-specific Files ==========
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ========== Version Control Specific ==========
+.git/
